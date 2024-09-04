@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 xui-id="364945" tvg-id="" tvg-name="NBA LEAGUE" tvg-logo="https://i.postimg.cc/CLD3YD8Z/JOGOS-DO-DIA-3.png" group-title="EVENTOS DO DIA",NBA LEAGUE
-http://tbest.live:80/play/qsp9GeYR_7vAJfOpfgJoOvWBiQDhGUcUin8z8WaACsvLVPBK4aSYvdZlomRs1NUF/ts
 #EXTINF:-1 xui-id="364944" tvg-id="" tvg-name="UFC FIGHT" tvg-logo="https://i.postimg.cc/Y9V4zQnf/UFC.png" group-title="EVENTOS DO DIA",UFC FIGHT
 http://tbest.live:80/play/qsp9GeYR_7vAJfOpfgJoOvWBiQDhGUcUin8z8WaACsurRdkBkst0kfKP7yw5rZeK/ts
 #EXTINF:-1 xui-id="364947" tvg-id="" tvg-name="FORMULA 1" tvg-logo="https://i.postimg.cc/5Nb8DKZw/CALENDARIO-FORMULA-1.png" group-title="EVENTOS DO DIA",FORMULA 1
