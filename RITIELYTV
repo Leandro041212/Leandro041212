@@ -1,5 +1,3 @@
 #EXTM3U 
-#EXTINF:-1 tvg nome"LUCA"
-https://youtu.be/l06epl6gf9Y
-#EXTINF:-1 tvg nome"TORO FERDINANDO"
-https://youtu.be/AAYGfhdL4Co
+#EXTINF:https://youtu.be/l06epl6gf9Y
+#EXTINF:https://youtu.be/AAYGfhdL4Co
